@@ -134,7 +134,7 @@ body {
 
 .logo-image {
   height: 500px;
-  width: fit-content;
+  width: 500px;
   border-radius: 25px;
   margin-top: 10px;
   margin-left: auto;
